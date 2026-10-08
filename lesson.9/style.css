@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    transition: background 0.3s;
+    background: white;
+  }
+  .container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  button {
+    padding: 15px 25px;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background: white;
+    font-weight: bold;
+  }

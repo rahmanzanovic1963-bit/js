@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  border-radius: 2px solid black;
+  box-shadow: 0 0 10px;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background: white;
+}
+
+.conteiner h1 {
+  margin-left: 60px;
+}
+
+.conteiner h2 {
+  margin-left: 60px;
+}
+button {
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  background-color: black;
+
+  border: none;
+}
+
+li {
+  list-style: none;
+}

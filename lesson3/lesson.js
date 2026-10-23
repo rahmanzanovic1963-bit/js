@@ -9,14 +9,14 @@
 //     alert("вы не вошли ак")
 // }
 
-// let egeg = prompt("сан жаз");
-// if (egeg < 0) {
-//   alert("не отрецатель");
-// } else if (ageg > 0) {
-//   alert("отрецатель");
-// } else {
-//   alert("число равен нулю");
-// }
+let egeg = prompt("сан жаз");
+if (egeg < 0) {
+  alert("не отрецатель");
+} else if (ageg > 0) {
+  alert("отрецатель");
+} else {
+  alert("число равен нулю");
+}
 
 // let month = prompt("месяц");
 // switch (month) {
